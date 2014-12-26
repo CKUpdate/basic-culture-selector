@@ -1,7 +1,13 @@
 {
   "name": "basic-culture-selector",
   "repository": "git@github.com:CKUpdate/basic-culture-selector.git",
-  "version": "2.0.0",
+  "version": "0.0.1",
   "dependencies": {
-  }
+    "basic-element": "CKUpdate/basic-element#master",
+    "globalize": "CKUpdate/globalize#master"
+  },
+  "keywords": [
+    "web-components",
+    "flatten"
+  ]
 }
