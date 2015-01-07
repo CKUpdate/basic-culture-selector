@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "dependencies": {
     "basic-element": "CKUpdate/basic-element#master",
-    "globalize": "CKUpdate/globalize#master"
+    "globalize": "CKUpdate/globalize#v0.1.1000"
   },
   "keywords": [
     "web-components",
